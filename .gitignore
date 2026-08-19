@@ -1,0 +1,32 @@
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+pids
+*.pid
+
+# Runtime env
+.env
+.env.local
+.env.*.local
+
+# Editor directories
+.vscode/
+
+# Build output
+dist/
+build/
+
+# Sensitive data
+data/users/
+data/users/*.json
+
+# Keys and certificates
+*.pem
+*.key
+
